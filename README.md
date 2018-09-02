@@ -32,3 +32,5 @@ print(example)
 commission = wallet.commission(pid=99, recipient='79001234567', amount=1.11)
 print(commission.qw_commission.amount)
 ```# test
+# test
+# test
